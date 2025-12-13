@@ -1,0 +1,11 @@
+[package]
+name = "day1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
+
+
+[env]
+AOC_ROOT_DIR = { value = "/path/to/your/aoc/root", force = true }
